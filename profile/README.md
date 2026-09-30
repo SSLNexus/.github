@@ -1,6 +1,6 @@
-### SECURE - DEPLOY - DELEGATE
-
-# SSLNexus
+<p align="center">
+  <img src="./SSLNexus-wordmark-light.png" alt="SSLNexus" width="340">
+</p>
 
 SSLNexus is a certificate lifecycle management platform for infrastructure, security, DevOps, enterprise, and managed service provider environments.
 
